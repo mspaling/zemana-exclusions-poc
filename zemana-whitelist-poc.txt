@@ -1,4 +1,4 @@
-#Proof-of-concept script to take demonstrate incorrect permissions and hardcoded asymmetric encryption in Zemana Anti-Logger 1.9.3.527 and prior.  Fixed in 1.9.3.602 by way of native keystroke encryption and unique application keys.  Provide your own MyRules2.ini
+#Proof-of-concept script to demonstrate incorrect permissions and hardcoded ssymmetric encryption in Zemana Anti-Logger 1.9.3.527 and prior.  Fixed in 1.9.3.602 by way of native keystroke encryption and unique application keys.  Provide your own MyRules2.ini
 #By Michael Spaling - provided as-is.  Use at your own risk.
 #https://www.youtube.com/watch?v=LF5ic5nOoUY
 import pyHook, pythoncom, sys, logging, os, subprocess, shutil
